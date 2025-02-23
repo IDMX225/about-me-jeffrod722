@@ -1,0 +1,36 @@
+    body {
+        font-family: bokor;
+        background-color: #CDC3E3;
+        color: #946DE5;
+    }
+
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family:quintessential;
+        font-size:30pt;
+    }
+
+
+    header {
+        text-align:center;
+    }
+
+    #avatar, footer {
+        color: #946DE5;
+        background-color: #E6E176;
+        text-align:center;
+        padding:10px;
+    }
+
+    #avatar img {
+        width:320px;
+    }
+
+    #bio {
+        padding:20px
+        text-align:left;
+    }
+
+    footer {
+        text-align:right;
+    }
