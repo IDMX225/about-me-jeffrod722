@@ -1,7 +1,7 @@
     body {
         font-family: bokor;
         background-color: #CDC3E3;
-        color: #946DE5;
+        color: black;
     }
 
 
@@ -16,7 +16,7 @@
     }
 
     #avatar, footer {
-        color: #946DE5;
+        color: black;
         background-color: #E6E176;
         text-align:center;
         padding:10px;
