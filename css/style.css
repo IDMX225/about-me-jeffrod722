@@ -34,3 +34,14 @@
     footer {
         text-align:right;
     }
+
+    #hobbies ul li:nth-child(odd) {
+        color: white
+    }
+
+    #hobbies {
+        border: lightskyblue groove 6px;
+        padding: 5px;
+        box-shadow: 10px 10px 5px lightskyblue;
+    
+    }
