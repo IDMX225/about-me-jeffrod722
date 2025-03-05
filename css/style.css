@@ -41,7 +41,18 @@
 
     #hobbies {
         border: lightskyblue groove 6px;
-        padding: 5px;
-        box-shadow: 10px 10px 5px lightskyblue;
-    
+        padding: 5px;    
+    }
+
+    #gallery{
+        border:#E6E176 ridge 5px;
+    }
+
+    #gallery img {
+        max-width:100%;
+    }
+
+    #gallery figure{
+        text-align:center;
+        font-size:25px;
     }
