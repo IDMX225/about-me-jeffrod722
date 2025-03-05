@@ -41,11 +41,13 @@
 
     #hobbies {
         border: lightskyblue groove 6px;
-        padding: 5px;    
+        padding: 5px;  
+        margin-bottom: 2rem;  
     }
 
     #gallery{
         border:#E6E176 ridge 5px;
+        margin-top: 2rem;
     }
 
     #gallery img {
